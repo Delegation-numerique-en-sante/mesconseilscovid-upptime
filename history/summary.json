@@ -4,19 +4,19 @@
     "url": "https://mesconseilscovid.sante.gouv.fr",
     "icon": "https://favicons.githubusercontent.com/mesconseilscovid.sante.gouv.fr",
     "slug": "mcc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 885,
-    "timeDay": 792,
-    "timeWeek": 860,
-    "timeMonth": 877,
-    "timeYear": 885,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.49%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.98%",
+    "time": 884,
+    "timeDay": 810,
+    "timeWeek": 856,
+    "timeMonth": 875,
+    "timeYear": 884,
     "dailyMinutesDown": {
-      "2021-10-13": 0
+      "2021-10-13": 65
     }
   }
 ]
