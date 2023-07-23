@@ -4,7 +4,7 @@
     "url": "https://mesconseilscovid.sante.gouv.fr",
     "icon": "https://icons.duckduckgo.com/ip3/mesconseilscovid.sante.gouv.fr.ico",
     "slug": "mcc",
-    "status": "up",
+    "status": "down",
     "uptime": "96.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 954,
     "timeYear": 987,
     "dailyMinutesDown": {
+      "2023-07-23": 0,
       "2023-02-26": 1340,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
